@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shahabas-k-m-7a5237220/">Shahabas KM - Linkedin</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahabas-k-m-7a5237220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahabas-k-m-7a5237220/">Shahabas KM - LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
