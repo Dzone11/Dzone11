@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzone11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/3KQFqhgLN9ngkYr0qS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/artificial-intelligence-virtual-assistant-surveillance-capitalism-3KQFqhgLN9ngkYr0qS">via GIPHY</a></p>"  />
 
 ###
 
