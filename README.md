@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shahabas-k-m-7a5237220/">Shahabas KM - LinkedIn</a>
+<a href="https://www.linkedin.com/in/shahabas-k-m-7a5237220/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
