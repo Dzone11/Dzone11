@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.datascienceportfol.io/shahabasmuhammed">Shahabas KM - Data Science Portfolio</a>
 
-- 📫 How to reach me **shahabassha12@gmail.com**
+- 📫 How to reach me here - **shahabassha12@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1lboK3UaPAiRsi5LN5XhlD1o6hYLIxD0p?usp=sharing">Shahabas KM - Curriculum Vitae</a>
 
