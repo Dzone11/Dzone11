@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahabas KM</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-- 🔭 I’m currently working as **Project Coordinator - Trainer (Data Science & AI) @ G-TEC**
+- 🔭 I’m currently working as **Data Manger @St.Johns Research Institute**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine learning**
 
