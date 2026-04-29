@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.datascienceportfol.io/shahabasmuhammed">Shahabas KM - Data Science Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-taupe-six-90.vercel.app/">Shahabas KM - Data Science Portfolio</a>
 
 - 📫 How to reach me here - **shahabassha12@gmail.com**
 
