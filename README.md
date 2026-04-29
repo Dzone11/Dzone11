@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Data Scientist @St.Johns Research Institute**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine learning**
+- 🌱 I’m learning **Artificial Intelligence, Machine learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-taupe-six-90.vercel.app/">Shahabas KM - Data Science Portfolio</a>
 
